@@ -19,3 +19,10 @@
 
 <img width="1593" height="102" alt="Image" src="https://github.com/user-attachments/assets/5113f087-bea6-4e00-9b5c-ac31fb0e9e8f" />
 
+*DESCRIPTION*:
+This project uses Artificial Intelligence and Natural Language Processing to summarize long text automatically. The system takes a large paragraph or article as input and generates a shorter summary while preserving the important information.
+
+The project is implemented using Python and HuggingFace Transformer models. A pre-trained deep learning model is used to understand the context of the text and produce a concise summary.
+
+The tool is useful for reducing reading time and extracting important information from large documents, articles, or reports.
+
